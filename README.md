@@ -48,3 +48,6 @@ demem is a simple memory library for AutoIt that features:
 ```
 ### Remarks
 If you don't use the scan funtions, you don't need to use the library demem.dll
+
+### Donation
+The project is under development, it still has a lot of features being developed, it's a very big help of your donation to keep it running, please contact me anytime you feel like it!
