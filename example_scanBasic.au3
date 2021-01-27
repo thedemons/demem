@@ -34,7 +34,7 @@ Local $result = demem_scanValue($hProcess, 69, "int")
 
 ; read the value at that address
 Local $value = demem_readInt($hProcess, $result)
-ConsoleWrite(StringFormat("!> Found a result at: 0x%s  -  value: %d\n", $result, $value))
+ConsoleWrite(StringFormat("Found a result at: 0x%s  -  value: %d\n", $result, $value))
 
 
 ; scan 69 (int) and get multiple results, with the maximum of 1000 results
