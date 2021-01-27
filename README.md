@@ -3,8 +3,9 @@
 ### Description
 demem is a simple memory library for AutoIt that features:
 - Basic memory manipulation
-- Read and write string with simple usages
-- Fast scanning AOB (pattern), value, and string
+- Read and write with simple usages
+- Scan AOB (pattern), value, and string
+- Auto handle access permission error
 ### Functions
 
 ```autoit
