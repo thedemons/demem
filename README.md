@@ -7,7 +7,6 @@ demem is a simple memory library for AutoIt that features:
 - Scan AOB (pattern), value, and string
 - Auto handle access permission error
 ### Functions
-
 ```autoit
 	demem_open
 	demem_close
@@ -45,3 +44,5 @@ demem is a simple memory library for AutoIt that features:
 	demem_scanStringUTF8
 	demem_scanStringUnicode
 ```
+### Remarks
+If you don't use the scan funtions, you don't need to use the library demem.dll
