@@ -52,3 +52,6 @@ If you don't use the scan funtions, you don't need to use the library demem.dll
 ### Donation
 This project is under development, it still has a lot of features being developed, it's a very big help of your donation to keep the project running, please contact me anytime you feel like it!<br/>
 Discord: [thedemons#8671](https://discord.com/users/269920976236576769)
+
+### A special thanks to our donators:
+Nguyen Manh Tuong
